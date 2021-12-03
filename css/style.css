@@ -4,8 +4,11 @@
     border: 1px solid white;
     color: white;
 }
-/* .nasted{
-    background-color:forestgreen;
-    height: 200px;
-
-} */
+.nasted{
+    height: 30px;
+    background-color:#00e165;
+    border: 1px solid #006cfa;
+} 
+.mtop-20px{
+    margin-top: 20px;
+}
