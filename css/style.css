@@ -4,6 +4,12 @@
     border: 1px solid white;
     color: white;
 }
+.big-col{
+    height: 100px;
+    background-color: #006cfa;
+    border: 1px solid white;
+    color: white;
+}
 .nasted{
     height: 30px;
     background-color:#00e165;
